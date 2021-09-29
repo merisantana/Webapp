@@ -1,12 +1,12 @@
 Variable "resourcerm_group_name" {
-  type "string"
+  type = string
 }
 Variable "location" {
-  type "string"
+  type = string
 }
 Variable "name_service_plan" {
-  type "string"
+  type = string
 }
 Variable "name_web_app" {
-  type "string"
+  type = string
 }
